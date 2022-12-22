@@ -1,0 +1,1 @@
+- trying to implement polyfills for some native js functions for fun
